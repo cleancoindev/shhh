@@ -8,7 +8,6 @@ import "./interfaces/IOwnable.sol";
 import "./interfaces/IOUSD.sol";
 
 import "./libraries/SafeERC20.sol";
-import "./libraries/SafeMath.sol";
 
 import "./types/ERC20.sol";
 import "./types/Ownable.sol";

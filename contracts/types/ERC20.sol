@@ -1,6 +1,9 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
 pragma solidity ^0.8.0;
 
+import "../interfaces/IERC20.sol";
+import "../libraries/Address.sol";
+
 contract ERC20 is IERC20 {
     using Address for address;
 
