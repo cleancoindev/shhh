@@ -2,6 +2,7 @@
 pragma solidity 0.8.0;
 
 import "./types/ERC20.sol";
+import "./interfaces/IERC20.sol";
 
 contract OUSD is ERC20 {
 
