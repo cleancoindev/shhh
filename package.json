@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@defi-wonderland/smock": "^2.0.7"
+    "@defi-wonderland/smock": "^2.1.0"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.2",
